@@ -1,8 +1,6 @@
-# Supply-chain-fraud-detection-and-late-delivery-risk-prediction-using-machine-learning-
-
 **Project Title**
 
-DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS
+Supply chain fraud detection and late delivery risk prediction using machine learning
 
 **Project Overview**
 

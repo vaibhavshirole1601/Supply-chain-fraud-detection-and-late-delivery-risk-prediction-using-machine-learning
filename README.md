@@ -1,6 +1,6 @@
 **Project Title**
 
-Supply chain fraud detection and late delivery risk prediction using machine learning
+Supply chain fraud detection and late delivery risk prediction using machine learning.
 
 **Project Overview**
 

@@ -21,6 +21,10 @@ To incorporate geospatial information, latitude and longitude features were adde
 **Stage 3: SelectKBest Feature Selection**
 The SelectKBest module was applied to select the most impactful features for the target variable. By focusing on the most informative features, the dimensionality of the dataset was reduced, improving computational efficiency and potentially enhancing model performance.
 
+**Updated Dataset with order_latitude and order_longitude features**
+
+https://docs.google.com/spreadsheets/d/1Jfl3OOsgGz_yggkd5ER_cCK7-7UchbRk/edit?usp=sharing&ouid=110108918829398286308&rtpof=true&sd=true
+
 **Data Preprocessing**
 
 Data preprocessing steps included cleaning, normalization, and encoding to ensure the dataset was suitable for model training. These steps aimed to handle missing values, standardize numerical features, and convert categorical variables into a format suitable for machine learning algorithms.

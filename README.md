@@ -7,6 +7,7 @@ DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS
 This project implements a smart supply chain using big data analysis, focusing on optimizing delivery times and detecting fraud. The aim is to leverage machine learning techniques to enhance the efficiency and security of the supply chain.
 
 **Feature Engineering**
+
 **Stage 1:** Domain Knowledge Application
 In the initial stage, feature engineering was performed by applying domain knowledge. This involved identifying and creating relevant features based on the intricacies of the supply chain domain.
 

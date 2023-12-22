@@ -40,3 +40,7 @@ The hybrid model was transformed into a multi-output classifier, allowing it to 
 **Model Evaluation**
 
 The performance of the model was rigorously evaluated on testing data using relevant metrics. Results were analyzed to assess the effectiveness of the hybrid model in optimizing delivery times and detecting fraud.
+
+**Result Visualization on Map**
+
+After model evaluation, the results for fraud detection and late delivery risk prediction were visualized on a map. This step provided a geospatial representation of predicted outcomes, enhancing the interpretability of the model's insights.

@@ -6,6 +6,10 @@ Supply chain fraud detection and late delivery risk prediction using machine lea
 
 This project implements a smart supply chain using big data analysis, focusing on optimizing delivery times and detecting fraud. The aim is to leverage machine learning techniques to enhance the efficiency and security of the supply chain.
 
+**Dataset Source**
+
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+
 **Feature Engineering**
 
 **Stage 1: Domain Knowledge Application**
